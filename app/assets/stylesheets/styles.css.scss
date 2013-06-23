@@ -1,0 +1,21 @@
+@import "bootstrap";
+@import "bootstrap-responsive";
+
+
+ul {
+  margin-left: 0;
+  overflow: hidden;
+}
+
+ul li {
+  float: left;
+  list-style: none;
+}
+
+footer {
+  margin-top: 50px;
+  color: $grayLight;
+  a {
+    color: $gray;
+  }
+}
